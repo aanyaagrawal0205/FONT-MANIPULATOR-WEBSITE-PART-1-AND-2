@@ -1,0 +1,28 @@
+.heading {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(204, 148, 28);
+}
+.note
+{
+    font-size: 15px;
+    color:lime;
+}
+.copy_right_footer {
+    position: fixed;
+    color: lightyellow;
+    bottom: 0;
+    width: 100%;
+    background-color:lightsalmon;
+    line-height: 3;
+    text-align: center;
+}
+canvas {
+    border: 5px solid yellowgreen;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px violet;
+}
+body{
+    background: url("https://mh-1-stockagency.panthermedia.net/media/previews/0019000000/19771000/19771077_high.jpg")
+}
